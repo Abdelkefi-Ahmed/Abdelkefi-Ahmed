@@ -14,27 +14,6 @@ I have hands-on experience with a wide range of technologies and tools, includin
 - **API Development**: REST, SMS API Gateway
 - **Other Tools**: GIT, Jira, Maven, Hibernate
 
-## 💼 Professional Experience
-
-- **Backend Developer at Intelligencia IT & Financial Softwares**  
-  Contributing to the digitalization of primary market operations for DC/BR using **ASP .Net Core**, **Clean Architecture**, **Entity Framework**, **PostgreSQL**, and DevOps tools like **Docker** and **Gitlab CI/CD**.
-
-- **Full-stack Developer at Orange Innovation, Toulouse, France**  
-  Developed a web tool for data exploitation and visualization using **Angular**, **TypeScript**, **Flask-Python**, and **MariaDB**, providing users with quick access to valuable information.
-
-- **Backend Developer Intern at Sofrecom, Tunis, Tunisia**  
-  Implemented an **SMS API Gateway** for managing SMS sending attempts using **Spring Boot**, **Spring State Machine**, and **Redis**.
-
-## 🎓 Education
-
-- **Engineering Degree in Industrial Computer Engineering**  
-  *Ecole nationale d'électronique et des télécommunications de Sfax*  
-  Graduated with honors, specializing in energy systems supervision.
-
-- **Preparatory Studies in Physical Sciences and Techniques**  
-  *Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar, Tunis*  
-  Admitted through the national entrance exam for engineering schools.
-
 ## 🌱 What I’m Currently Learning
 
 I'm always exploring new technologies and methodologies to stay up-to-date with the latest trends in software development. Currently, I’m deepening my knowledge of:
